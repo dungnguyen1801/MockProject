@@ -6,3 +6,7 @@ https://docs.google.com/presentation/d/1GJGFuROxMzlK0x4nx_QtNbDE9xZAQGzbyrhSgVZc
 
 Table Layout
 https://docs.google.com/spreadsheets/d/19yotMMrjKpTxO8TOpThgXI8yyNZc8CAbLRPJvGUUeKo/edit#gid=959197416
+
+[Software design documentation]
+
+https://docs.google.com/document/d/1isazsJ6YaMXM-Kj96oRPeeCGMETztsUn_B-X5Fb97Nk/edit
