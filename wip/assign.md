@@ -8,5 +8,4 @@ Table Layout
 https://docs.google.com/spreadsheets/d/19yotMMrjKpTxO8TOpThgXI8yyNZc8CAbLRPJvGUUeKo/edit#gid=959197416
 
 [Software design documentation]
-
-https://docs.google.com/document/d/1isazsJ6YaMXM-Kj96oRPeeCGMETztsUn_B-X5Fb97Nk/edit
+https://docs.google.com/document/d/1tUu2zrfQ-9MUJ9nqyEZf-iIgeztNuQSqk9CbwTcV_ik/edit?usp=sharing
